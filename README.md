@@ -1,5 +1,5 @@
-Hi I am John
-I started coding in 2018
+Hi I am John.
+I started coding in 2018 and try to make good software/programes
 
 
 <!---
